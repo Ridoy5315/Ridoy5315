@@ -8,7 +8,7 @@
 
 ###
 
-<h2 align="center">Hello World!!</h2>
+<h2 align="center">About Me</h2>
 
 ###
 
@@ -16,7 +16,7 @@
 
 ###
 
-<h2 align="center">I Work Wwith</h2>
+<h2 align="center">I Work With</h2>
 
 ###
 
